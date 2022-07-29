@@ -32,9 +32,9 @@
 |13강|색상 : color|✅|
 |14강|정렬 : text-align|✅|
 |15강|서체 : font-family, font-weight, line-height|✅|
-|16강|웹폰트||
-|17강|인라인 vs 블럭레벨||
-|18강|박스모델||
+|16강|웹폰트|✅|
+|17강|인라인 vs 블럭레벨|✅|
+|18강|박스모델|✅|
 |19강|마진겹침(margin-collapsing)1||
 |20강|마진겹침(margin-collapsing)2||
 |21강|마진겹침(margin-collapsing)3||
@@ -76,7 +76,7 @@
 <td align = center>
   <img src="https://avatars.githubusercontent.com/Leewang31?v=4" width="300px;" alt=""/>
 <br>
-<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/34" width="200px" /><br>
+<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/40" width="200px" /><br>
 <a href="https://leewang31.tistory.com/">
 <p>🌞티스토리🌞</p>
 </a>

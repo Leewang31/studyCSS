@@ -76,7 +76,7 @@
 <td align = center>
   <img src="https://avatars.githubusercontent.com/Leewang31?v=4" width="300px;" alt=""/>
 <br>
-<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/35" width="200px" /><br>
+<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/34" width="200px" /><br>
 <a href="https://leewang31.tistory.com/">
 <p>🌞티스토리🌞</p>
 </a>

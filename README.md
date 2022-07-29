@@ -32,15 +32,15 @@
 |13강|색상 : color|✅|
 |14강|정렬 : text-align|✅|
 |15강|서체 : font-family, font-weight, line-height|✅|
-|16강|웹폰트|✅|
-|17강|인라인 vs 블럭레벨|✅|
-|18강|박스모델|✅|
-|19강|마진겹침(margin-collapsing)1|✅|
-|20강|마진겹침(margin-collapsing)2|✅|
-|21강|마진겹침(margin-collapsing)3|✅|
-|22강|포지션 (position) - relative VS static|✅|
-|23강|포지션 (position) -absolute|✅|
-|24강|포지션 (position) -fixed|✅|
+|16강|웹폰트||
+|17강|인라인 vs 블럭레벨||
+|18강|박스모델||
+|19강|마진겹침(margin-collapsing)1||
+|20강|마진겹침(margin-collapsing)2||
+|21강|마진겹침(margin-collapsing)3||
+|22강|포지션 (position) - relative VS static||
+|23강|포지션 (position) -absolute||
+|24강|포지션 (position) -fixed||
 |25강|flex 소개||
 |26강|flex 의 기본||
 |27강|flex grow & shrink||
@@ -76,7 +76,7 @@
 <td align = center>
   <img src="https://avatars.githubusercontent.com/Leewang31?v=4" width="300px;" alt=""/>
 <br>
-<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/16" width="200px" /><br>
+<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/35" width="200px" /><br>
 <a href="https://leewang31.tistory.com/">
 <p>🌞티스토리🌞</p>
 </a>
